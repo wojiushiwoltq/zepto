@@ -9,4 +9,4 @@ zepto源码，修正部分手机上swipe事件无效的bug
 
 此解决方法可以修正以上两个问题。
 
-同时引入修改后的event.js和touch.js
+同时引入修改后的zepto.js、event.js和touch.js
